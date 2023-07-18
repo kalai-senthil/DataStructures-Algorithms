@@ -34,3 +34,7 @@ class MergeSort:public Runnable {
 public:
 	void run();
 };
+class QuickSort :public Runnable {
+public:
+	void run();
+};

@@ -1,8 +1,10 @@
 #include "Definitions.h"
 int main()
 {
-	BinarySearch bs;
+	/*BinarySearch bs;
 	bs.run();
 	MergeSort ms;
-	ms.run();
+	ms.run();*/
+	QuickSort qs;
+	qs.run();
 }
