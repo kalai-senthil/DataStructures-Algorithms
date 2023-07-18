@@ -46,3 +46,11 @@ class Prim :public Runnable {
 public:
 	void run();
 };
+class Kruskal :public Runnable {
+public:
+	void run();
+};
+class Djikstra :public Runnable {
+public:
+	void run();
+};

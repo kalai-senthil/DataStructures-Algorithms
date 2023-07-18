@@ -45,7 +45,7 @@ void KnapSack::run() {
 		else {
 			break;
 		}
-		c -= w[i];
+		c -=(int) w[i];
 	}
 	
 	printf("%.3f",prof);

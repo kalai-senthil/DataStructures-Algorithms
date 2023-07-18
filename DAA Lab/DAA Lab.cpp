@@ -8,7 +8,9 @@ int main()
 	QuickSort qs;
 	qs.run();
 	KnapSack ks;
-	ks.run();*/
+	ks.run();
 	Prim pr;
-	pr.run();
+	pr.run();*/
+	Djikstra djk;
+	djk.run();
 }
