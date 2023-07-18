@@ -141,7 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Binary_Search.cpp" />
     <ClCompile Include="DAA Lab.cpp" />
+    <ClCompile Include="KnapSack.cpp" />
     <ClCompile Include="Merge_sort.cpp" />
+    <ClCompile Include="Prim.cpp" />
     <ClCompile Include="Quick_Sort.cpp" />
   </ItemGroup>
   <ItemGroup>

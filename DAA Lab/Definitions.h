@@ -38,3 +38,11 @@ class QuickSort :public Runnable {
 public:
 	void run();
 };
+class KnapSack :public Runnable {
+public:
+	void run();
+};
+class Prim :public Runnable {
+public:
+	void run();
+};
